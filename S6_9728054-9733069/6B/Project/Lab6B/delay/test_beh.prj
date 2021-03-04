@@ -1,0 +1,2 @@
+vhdl work "clock_delay.vhd"
+vhdl work "test.vhd"

@@ -1,0 +1,8 @@
+xst -intstyle ise -ifn "C:/Users/Home/Desktop/Lab6C/seg7/seg7.xst" -ofn "C:/Users/Home/Desktop/Lab6C/seg7/seg7.syr" 
+xst -intstyle ise -ifn "C:/Users/Home/Desktop/Lab6C/seg7/seg7.xst" -ofn "C:/Users/Home/Desktop/Lab6C/seg7/seg7.syr" 
+xst -intstyle ise -ifn "C:/Users/Home/Desktop/Lab6C/seg7/seg7.xst" -ofn "C:/Users/Home/Desktop/Lab6C/seg7/seg7.syr" 
+xst -intstyle ise -ifn "C:/Users/Home/Desktop/Lab6C/seg7/seg7.xst" -ofn "C:/Users/Home/Desktop/Lab6C/seg7/seg7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-5 seg7.ngc seg7.ngd  
+map -intstyle ise -p xc3s400-pq208-5 -cm area -ir off -pr off -c 100 -o seg7_map.ncd seg7.ngd seg7.pcf 
+par -w -intstyle ise -ol high -t 1 seg7_map.ncd seg7.ncd seg7.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml seg7.twx seg7.ncd -o seg7.twr seg7.pcf 

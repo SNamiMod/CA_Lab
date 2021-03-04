@@ -1,0 +1,5 @@
+work	"../../AZ6/6A/VHDL code/DFF.vhd"
+work	"../../AZ6/6A/VHDL code/REG.vhd"
+work	"../../AZ6/6A/VHDL code/mux_1.vhd"
+work	"../../AZ6/6B/VHDL code/clock_delay.vhd"
+work	"seg7.vhd"

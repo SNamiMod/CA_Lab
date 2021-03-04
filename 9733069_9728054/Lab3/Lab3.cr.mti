@@ -1,0 +1,97 @@
+C:/Users/Home/Desktop/Lab3/Mealy_1101_test.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/Home/Desktop/Lab3/Mealy_1101_test.vhd
+Model Technology ModelSim SE vcom 10.2c Compiler 2013.07 Jul 18 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Mealy_1101_test
+-- Compiling architecture behavior of Mealy_1101_test
+
+} {} {}} C:/Users/Home/Desktop/Lab3/Mealy_1101.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/Home/Desktop/Lab3/Mealy_1101.vhd
+Model Technology ModelSim SE vcom 10.2c Compiler 2013.07 Jul 18 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Mealy_1101
+-- Compiling architecture Behavioral of Mealy_1101
+
+} {} {}} C:/Users/Home/Desktop/Lab3/Ripple_Counter_test.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/Home/Desktop/Lab3/Ripple_Counter_test.vhd
+Model Technology ModelSim SE vcom 10.2c Compiler 2013.07 Jul 18 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Ripple_Counter_test
+-- Compiling architecture behavior of Ripple_Counter_test
+
+} {} {}} C:/Users/Home/Desktop/Lab3/Detector_0110_0101_test.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/Home/Desktop/Lab3/Detector_0110_0101_test.vhd
+Model Technology ModelSim SE vcom 10.2c Compiler 2013.07 Jul 18 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Detector_0110_0101_test
+-- Compiling architecture behavior of Detector_0110_0101_test
+
+} {} {}} C:/Users/Home/Desktop/Lab3/Detector_0110_0101.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/Home/Desktop/Lab3/Detector_0110_0101.vhd
+Model Technology ModelSim SE vcom 10.2c Compiler 2013.07 Jul 18 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Detector_0110_0101
+-- Compiling architecture Behavioral of Detector_0110_0101
+
+} {} {}} C:/Users/Home/Desktop/Lab3/Ripple_Counter.vhd {1 {vcom -work work -2002 -explicit -vopt {C:\Users\Home\Desktop\Lab3\Ripple_Counter.vhd}
+Model Technology ModelSim SE vcom 10.2c Compiler 2013.07 Jul 18 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Ripple_Counter
+-- Compiling architecture Behavioral of Ripple_Counter
+
+} {} {}} C:/Users/Home/Desktop/Lab3/Moore_1101_test.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/Home/Desktop/Lab3/Moore_1101_test.vhd
+Model Technology ModelSim SE vcom 10.2c Compiler 2013.07 Jul 18 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Moore_1101_test
+-- Compiling architecture behavior of Moore_1101_test
+
+} {} {}} C:/Users/Home/Desktop/Lab3/Moore_1101.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/Home/Desktop/Lab3/Moore_1101.vhd
+Model Technology ModelSim SE vcom 10.2c Compiler 2013.07 Jul 18 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Moore_1101
+-- Compiling architecture Behavioral of Moore_1101
+
+} {} {}} C:/Users/Home/Desktop/Lab3/DFF_test.vhd {1 {vcom -work work -2002 -explicit -vopt {C:\Users\Home\Desktop\Lab3\DFF_test.vhd}
+Model Technology ModelSim SE vcom 10.2c Compiler 2013.07 Jul 18 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity DFF_test
+-- Compiling architecture behavior of DFF_test
+
+} {} {}} C:/Users/Home/Desktop/Lab3/TFF_test.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/Home/Desktop/Lab3/TFF_test.vhd
+Model Technology ModelSim SE vcom 10.2c Compiler 2013.07 Jul 18 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TFF_test
+-- Compiling architecture behavior of TFF_test
+
+} {} {}} C:/Users/Home/Desktop/Lab3/DFF.vhd {1 {vcom -work work -2002 -explicit -vopt {C:\Users\Home\Desktop\Lab3\DFF.vhd}
+Model Technology ModelSim SE vcom 10.2c Compiler 2013.07 Jul 18 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity DFF
+-- Compiling architecture Behavioral of DFF
+
+} {} {}} C:/Users/Home/Desktop/Lab3/TFF.vhd {1 {vcom -work work -2002 -explicit -vopt {C:\Users\Home\Desktop\Lab3\TFF.vhd}
+Model Technology ModelSim SE vcom 10.2c Compiler 2013.07 Jul 18 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TFF
+-- Compiling architecture Behavioral of TFF
+
+} {} {}}

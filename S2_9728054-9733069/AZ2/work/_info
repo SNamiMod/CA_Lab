@@ -1,0 +1,585 @@
+m255
+K4
+z2
+!s11e vcom 2019.4 2019.10, Oct 15 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_2019.4/examples
+Ecomparator1bit
+Z0 w1602624597
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 -1
+Z3 dC:/Users/shah/Documents/CAAZ2
+Z4 8C:/Users/shah/Documents/CAAZ2/comparator1bit.vhd
+Z5 FC:/Users/shah/Documents/CAAZ2/comparator1bit.vhd
+l0
+L4
+V<Q5hXHTjRIH1dZNB_oGC_3
+!s100 @dhjNVZY?[bNG3o=TiPWS3
+Z6 OL;C;2019.4;69
+32
+Z7 !s110 1602631081
+!i10b 1
+Z8 !s108 1602631080.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ2/comparator1bit.vhd|
+Z10 !s107 C:/Users/shah/Documents/CAAZ2/comparator1bit.vhd|
+!i113 0
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+DEx4 work 14 comparator1bit 0 22 <Q5hXHTjRIH1dZNB_oGC_3
+!i122 -1
+l46
+L19
+VLkZ`;nm0k]7Ue]>ldlz7>2
+!s100 XCe52ITPOFI5Ij41SMP8F0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Ecomparator1bit_tb
+Z13 w1602624827
+R1
+R2
+!i122 -1
+R3
+Z14 8C:/Users/shah/Documents/CAAZ2/comparator1bit_tb.vhd
+Z15 FC:/Users/shah/Documents/CAAZ2/comparator1bit_tb.vhd
+l0
+L4
+ViY[Ag@N<HZg_BhaXd[GcF2
+!s100 aS?Q7ZCJ0bI>9eFm0=1@=3
+R6
+32
+R7
+!i10b 1
+Z16 !s108 1602631081.000000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ2/comparator1bit_tb.vhd|
+Z18 !s107 C:/Users/shah/Documents/CAAZ2/comparator1bit_tb.vhd|
+!i113 0
+R11
+R12
+Atest
+R1
+R2
+DEx4 work 17 comparator1bit_tb 0 22 iY[Ag@N<HZg_BhaXd[GcF2
+!i122 -1
+l34
+L7
+VKXFSGf@[bIH^C^TVY[=7c3
+!s100 ;<f6LJbBR4i=DGoiW<5853
+R6
+32
+R7
+!i10b 1
+R16
+R17
+R18
+!i113 0
+R11
+R12
+Ecomparator4bit
+Z19 w1602625914
+R1
+R2
+!i122 -1
+R3
+Z20 8C:/Users/shah/Documents/CAAZ2/comparator4bit.vhd
+Z21 FC:/Users/shah/Documents/CAAZ2/comparator4bit.vhd
+l0
+L4
+Ve:eA?NLj]h3dlJS9;J:L72
+!s100 GeL6810o<8LPd;Na@l]UQ1
+R6
+32
+R7
+!i10b 1
+R16
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ2/comparator4bit.vhd|
+Z23 !s107 C:/Users/shah/Documents/CAAZ2/comparator4bit.vhd|
+!i113 0
+R11
+R12
+Aarch
+R1
+R2
+DEx4 work 14 comparator4bit 0 22 e:eA?NLj]h3dlJS9;J:L72
+!i122 -1
+l38
+L19
+VVVdTd2fSFKdGGU<T3O;;h3
+!s100 mdFM`C0NHmnFHn4aYJbkk2
+R6
+32
+R7
+!i10b 1
+R16
+R22
+R23
+!i113 0
+R11
+R12
+Ecomparator4bit_tb
+Z24 w1602625168
+R1
+R2
+!i122 -1
+R3
+Z25 8C:/Users/shah/Documents/CAAZ2/comparator4bit_tb.vhd
+Z26 FC:/Users/shah/Documents/CAAZ2/comparator4bit_tb.vhd
+l0
+L4
+V=]_Uj9nEM:Nj`jBbh12c02
+!s100 OjhR=:SK_W]:DFzaOYGSQ2
+R6
+32
+R7
+!i10b 1
+R16
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ2/comparator4bit_tb.vhd|
+Z28 !s107 C:/Users/shah/Documents/CAAZ2/comparator4bit_tb.vhd|
+!i113 0
+R11
+R12
+Atest
+R1
+R2
+DEx4 work 17 comparator4bit_tb 0 22 =]_Uj9nEM:Nj`jBbh12c02
+!i122 -1
+l34
+L7
+V4JdLo49lNUZ<0;^3A@Tee0
+!s100 jTzP0JdHZi5KCMRiSjHDK1
+R6
+32
+R7
+!i10b 1
+R16
+R27
+R28
+!i113 0
+R11
+R12
+Edecoder2_4
+Z29 w1602614502
+R1
+R2
+!i122 -1
+R3
+Z30 8C:/Users/shah/Documents/CAAZ2/decoder2_4.vhd
+Z31 FC:/Users/shah/Documents/CAAZ2/decoder2_4.vhd
+l0
+L4
+Va3nMO:Km3@LbDC`Pja1RX0
+!s100 DcX]jMWG9mOY4cfXWk89z2
+R6
+32
+R7
+!i10b 1
+R16
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ2/decoder2_4.vhd|
+Z33 !s107 C:/Users/shah/Documents/CAAZ2/decoder2_4.vhd|
+!i113 0
+R11
+R12
+Aarch
+R1
+R2
+DEx4 work 10 decoder2_4 0 22 a3nMO:Km3@LbDC`Pja1RX0
+!i122 -1
+l14
+L13
+VgWaYK:@=k=ZRh0?_eLBn:1
+!s100 >bLS64<`?IQ`Bz@CzGSTX3
+R6
+32
+R7
+!i10b 1
+R16
+R32
+R33
+!i113 0
+R11
+R12
+Edecoder2_4_tb
+Z34 w1602614612
+R1
+R2
+!i122 -1
+R3
+Z35 8C:/Users/shah/Documents/CAAZ2/decoder2_4_tb.vhd
+Z36 FC:/Users/shah/Documents/CAAZ2/decoder2_4_tb.vhd
+l0
+L4
+V2kN57171=R<X5gHK0S0Nc2
+!s100 NU85og7IQIjO?WHB=Vo233
+R6
+32
+Z37 !s110 1602631082
+!i10b 1
+R16
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ2/decoder2_4_tb.vhd|
+Z39 !s107 C:/Users/shah/Documents/CAAZ2/decoder2_4_tb.vhd|
+!i113 0
+R11
+R12
+Atest
+R1
+R2
+DEx4 work 13 decoder2_4_tb 0 22 2kN57171=R<X5gHK0S0Nc2
+!i122 -1
+l19
+L7
+V^_zGIK6`KeUOH2ahMaWi71
+!s100 6FR[MjbQKe<f7T?J:mIE00
+R6
+32
+R37
+!i10b 1
+R16
+R38
+R39
+!i113 0
+R11
+R12
+Eencoder4_2
+Z40 w1602609696
+R1
+R2
+!i122 -1
+R3
+Z41 8C:/Users/shah/Documents/CAAZ2/encoder4_2.vhd
+Z42 FC:/Users/shah/Documents/CAAZ2/encoder4_2.vhd
+l0
+L4
+VY>OND<^`G[>[`dlVRo;`n2
+!s100 `][GCj5[AKo>`HbPCMIHK1
+R6
+32
+R37
+!i10b 1
+Z43 !s108 1602631082.000000
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ2/encoder4_2.vhd|
+Z45 !s107 C:/Users/shah/Documents/CAAZ2/encoder4_2.vhd|
+!i113 0
+R11
+R12
+Aarch
+R1
+R2
+DEx4 work 10 encoder4_2 0 22 Y>OND<^`G[>[`dlVRo;`n2
+!i122 -1
+l14
+L13
+VXdnei=6Kzb4[BfbV?9fXg2
+!s100 ?HO7]hYzUo5c5`i>X1k6l2
+R6
+32
+R37
+!i10b 1
+R43
+R44
+R45
+!i113 0
+R11
+R12
+Eencoder4_2_tb
+Z46 w1602609773
+R1
+R2
+!i122 -1
+R3
+Z47 8C:/Users/shah/Documents/CAAZ2/encoder4_2_tb.vhd
+Z48 FC:/Users/shah/Documents/CAAZ2/encoder4_2_tb.vhd
+l0
+L4
+Vmcz?hUQMOmg`=5zIhJTez1
+!s100 Van>RGfJTH5ACjR:Wekai1
+R6
+32
+R37
+!i10b 1
+R43
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ2/encoder4_2_tb.vhd|
+Z50 !s107 C:/Users/shah/Documents/CAAZ2/encoder4_2_tb.vhd|
+!i113 0
+R11
+R12
+Atest
+R1
+R2
+DEx4 work 13 encoder4_2_tb 0 22 mcz?hUQMOmg`=5zIhJTez1
+!i122 -1
+l19
+L7
+Vc;HckFmzODQOjn?`WjS7Q1
+!s100 @acR_j?5=0_OP57b?XSCn1
+R6
+32
+R37
+!i10b 1
+R43
+R49
+R50
+!i113 0
+R11
+R12
+Emux16_4
+Z51 w1602630058
+R1
+R2
+!i122 -1
+R3
+Z52 8C:/Users/shah/Documents/CAAZ2/mux16_4.vhd
+Z53 FC:/Users/shah/Documents/CAAZ2/mux16_4.vhd
+l0
+L4
+VEo`<D@0EYh2T7DOl5Yhmm1
+!s100 UeUK?]149@4cm3@[<TjaJ1
+R6
+32
+Z54 !s110 1602631083
+!i10b 1
+Z55 !s108 1602631083.000000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ2/mux16_4.vhd|
+Z57 !s107 C:/Users/shah/Documents/CAAZ2/mux16_4.vhd|
+!i113 0
+R11
+R12
+Aarch
+R1
+R2
+DEx4 work 7 mux16_4 0 22 Eo`<D@0EYh2T7DOl5Yhmm1
+!i122 -1
+l24
+L15
+VVPzjPYd14eV6RWz4;5knF2
+!s100 Ie_fVG:;W9aaZ52?Jn@R53
+R6
+32
+R54
+!i10b 1
+R55
+R56
+R57
+!i113 0
+R11
+R12
+Emux16_4_tb
+Z58 w1602630655
+R1
+R2
+!i122 -1
+R3
+Z59 8C:/Users/shah/Documents/CAAZ2/mux16_4_tb.vhd
+Z60 FC:/Users/shah/Documents/CAAZ2/mux16_4_tb.vhd
+l0
+L4
+VZcgWW5mNCa:Y?d:0fjJkZ3
+!s100 1b?3gR8e@:E>zFTUGe_B82
+R6
+32
+R54
+!i10b 1
+R55
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ2/mux16_4_tb.vhd|
+!s107 C:/Users/shah/Documents/CAAZ2/mux16_4_tb.vhd|
+!i113 0
+R11
+R12
+Atest
+R1
+R2
+Z62 DEx4 work 10 mux16_4_tb 0 22 ZcgWW5mNCa:Y?d:0fjJkZ3
+!i122 -1
+l29
+L7
+Z63 Vi3JBP4jJT9?AGj8c<Hi[V1
+Z64 !s100 o[QBkcclPQHh@kR`z;<hZ2
+R6
+32
+R54
+!i10b 1
+R55
+R61
+Z65 !s107 C:/Users/shah/Documents/CAAZ2/mux16_4_tb.vhd|
+!i113 0
+R11
+R12
+Emux4_1
+Z66 w1602609560
+R1
+R2
+!i122 -1
+R3
+Z67 8C:/Users/shah/Documents/CAAZ2/mux4_1.vhd
+Z68 FC:/Users/shah/Documents/CAAZ2/mux4_1.vhd
+l0
+L4
+VZ9@KXHhlSn50S>;6HjgO[0
+!s100 DcVCX;LYleR:3@OQmE?4G3
+R6
+32
+R37
+!i10b 1
+R43
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ2/mux4_1.vhd|
+Z70 !s107 C:/Users/shah/Documents/CAAZ2/mux4_1.vhd|
+!i113 0
+R11
+R12
+Aarch
+R1
+R2
+DEx4 work 6 mux4_1 0 22 Z9@KXHhlSn50S>;6HjgO[0
+!i122 -1
+l21
+L14
+VTh>9UH:2LWV<SkaS4P^VN3
+!s100 n;0E^QHJ?nGfWD`E5S8L82
+R6
+32
+R37
+!i10b 1
+R43
+R69
+R70
+!i113 0
+R11
+R12
+Emux4_1_tb
+Z71 w1602609642
+R1
+R2
+!i122 -1
+R3
+Z72 8C:/Users/shah/Documents/CAAZ2/mux4_1_tb.vhd
+Z73 FC:/Users/shah/Documents/CAAZ2/mux4_1_tb.vhd
+l0
+L4
+VmDW;>VAN89aG]YT560DXP1
+!s100 K:ImJ83Ko22323^zIfhCM1
+R6
+32
+R37
+!i10b 1
+R43
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ2/mux4_1_tb.vhd|
+Z75 !s107 C:/Users/shah/Documents/CAAZ2/mux4_1_tb.vhd|
+!i113 0
+R11
+R12
+Atest
+R1
+R2
+DEx4 work 9 mux4_1_tb 0 22 mDW;>VAN89aG]YT560DXP1
+!i122 -1
+l21
+L7
+V5OKgj^T0:HagEdnE23fdX3
+!s100 VUb91F>gDcXahV6hf7@J91
+R6
+32
+R37
+!i10b 1
+R43
+R74
+R75
+!i113 0
+R11
+R12
+Epriority_encoder4_2
+Z76 w1602627889
+R1
+R2
+!i122 -1
+R3
+Z77 8C:/Users/shah/Documents/CAAZ2/priority_encoder4_2.vhd
+Z78 FC:/Users/shah/Documents/CAAZ2/priority_encoder4_2.vhd
+l0
+L4
+V[h8l3e:<Pi5RK@cZ]5[Bz2
+!s100 ZM^Y9H4iOk@>zhQ5c10T^1
+R6
+32
+R54
+!i10b 1
+R55
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ2/priority_encoder4_2.vhd|
+Z80 !s107 C:/Users/shah/Documents/CAAZ2/priority_encoder4_2.vhd|
+!i113 0
+R11
+R12
+Aarch
+R1
+R2
+DEx4 work 19 priority_encoder4_2 0 22 [h8l3e:<Pi5RK@cZ]5[Bz2
+!i122 -1
+l14
+L12
+VIYNj@[iNJ9C_z3WY;kBg_3
+!s100 AY?3A5m@b48[_P5ed^C:O3
+R6
+32
+R54
+!i10b 1
+R55
+R79
+R80
+!i113 0
+R11
+R12
+Epriority_encoder4_2_tb
+Z81 w1602627837
+R1
+R2
+!i122 -1
+R3
+Z82 8C:/Users/shah/Documents/CAAZ2/priority_encoder4_2_tb.vhd
+Z83 FC:/Users/shah/Documents/CAAZ2/priority_encoder4_2_tb.vhd
+l0
+L4
+V]Z0S[AO8gYhh:>@m]@[lc2
+!s100 GZc:Yc60Jn@d2UjBWEco_3
+R6
+32
+R54
+!i10b 1
+R55
+Z84 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ2/priority_encoder4_2_tb.vhd|
+Z85 !s107 C:/Users/shah/Documents/CAAZ2/priority_encoder4_2_tb.vhd|
+!i113 0
+R11
+R12
+Atest
+R1
+R2
+DEx4 work 22 priority_encoder4_2_tb 0 22 ]Z0S[AO8gYhh:>@m]@[lc2
+!i122 -1
+l20
+L7
+VfT_oNlBmJhkYf=aKXdgc^1
+!s100 >]?[cFQ[<9B`ni2X4aV0[3
+R6
+32
+R54
+!i10b 1
+R55
+R84
+R85
+!i113 0
+R11
+R12

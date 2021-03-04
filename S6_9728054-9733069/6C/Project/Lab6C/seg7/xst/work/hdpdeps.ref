@@ -1,0 +1,30 @@
+V3 19
+FL "C:/Users/Home/Desktop/AZ6/6A/VHDL code/DFF.vhd" 2020/11/25.16:15:43 P.20131013
+EN work/DFF 1606323744 FL "C:/Users/Home/Desktop/AZ6/6A/VHDL code/DFF.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/DFF/struct 1606323745 \
+      FL "C:/Users/Home/Desktop/AZ6/6A/VHDL code/DFF.vhd" EN work/DFF 1606323744
+FL "C:/Users/Home/Desktop/AZ6/6A/VHDL code/mux_1.vhd" 2020/11/25.16:16:51 P.20131013
+EN work/mux_1 1606323742 FL "C:/Users/Home/Desktop/AZ6/6A/VHDL code/mux_1.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/mux_1/struct 1606323743 \
+      FL "C:/Users/Home/Desktop/AZ6/6A/VHDL code/mux_1.vhd" EN work/mux_1 1606323742
+FL "C:/Users/Home/Desktop/AZ6/6A/VHDL code/REG.vhd" 2020/11/25.16:17:20 P.20131013
+EN work/REG 1606323748 FL "C:/Users/Home/Desktop/AZ6/6A/VHDL code/REG.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/REG/struct 1606323749 \
+      FL "C:/Users/Home/Desktop/AZ6/6A/VHDL code/REG.vhd" EN work/REG 1606323748 \
+      CP mux_1 CP DFF
+FL "C:/Users/Home/Desktop/AZ6/6B/VHDL code/clock_delay.vhd" 2020/11/25.18:47:12 P.20131013
+EN work/clock_delay 1606323746 \
+      FL "C:/Users/Home/Desktop/AZ6/6B/VHDL code/clock_delay.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/clock_delay/Behavioral 1606323747 \
+      FL "C:/Users/Home/Desktop/AZ6/6B/VHDL code/clock_delay.vhd" \
+      EN work/clock_delay 1606323746
+FL C:/Users/Home/Desktop/Lab6C/seg7/seg7.vhd 2020/11/25.20:32:20 P.20131013
+EN work/seg7 1606323750 FL C:/Users/Home/Desktop/Lab6C/seg7/seg7.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/seg7/Behavioral 1606323751 \
+      FL C:/Users/Home/Desktop/Lab6C/seg7/seg7.vhd EN work/seg7 1606323750 \
+      CP clock_delay CP REG

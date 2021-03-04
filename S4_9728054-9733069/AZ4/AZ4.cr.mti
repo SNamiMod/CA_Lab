@@ -1,0 +1,105 @@
+C:/Users/shah/Documents/CAAZ4/FA.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:\Users\shah\Documents\CAAZ4\FA.vhd}
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FA
+-- Compiling architecture structure of FA
+
+} {} {}} C:/Users/shah/Documents/CAAZ4/CLA4bit_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/shah/Documents/CAAZ4/CLA4bit_tb.vhd
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity CLA4bit_tb
+-- Compiling architecture test of CLA4bit_tb
+
+} {} {}} C:/Users/shah/Documents/CAAZ4/HA.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:\Users\shah\Documents\CAAZ4\HA.vhd}
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity HA
+-- Compiling architecture structure of HA
+
+} {} {}} C:/Users/shah/Documents/CAAZ4/RA4bit_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/shah/Documents/CAAZ4/RA4bit_tb.vhd
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity RA4bit_tb
+-- Compiling architecture test of RA4bit_tb
+
+} {} {}} C:/Users/shah/Documents/CAAZ4/FA_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:\Users\shah\Documents\CAAZ4\FA_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FA_tb
+-- Compiling architecture test of FA_tb
+
+} {} {}} C:/Users/shah/Documents/CAAZ4/mux2_1.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/shah/Documents/CAAZ4/mux2_1.vhd
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2_1
+-- Compiling architecture structure of mux2_1
+
+} {} {}} C:/Users/shah/Documents/CAAZ4/RA4bit.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/shah/Documents/CAAZ4/RA4bit.vhd
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity RA4bit
+-- Compiling architecture structure of RA4bit
+
+} {} {}} C:/Users/shah/Documents/CAAZ4/CSA4bit_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/shah/Documents/CAAZ4/CSA4bit_tb.vhd
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity CSA4bit_tb
+-- Compiling architecture test of CSA4bit_tb
+
+} {} {}} C:/Users/shah/Documents/CAAZ4/XORgate.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/shah/Documents/CAAZ4/XORgate.vhd
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity XORgate
+-- Compiling architecture gatelevel of XORgate
+
+} {} {}} C:/Users/shah/Documents/CAAZ4/ORgate.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/shah/Documents/CAAZ4/ORgate.vhd
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ORgate
+-- Compiling architecture gatelevel of ORgate
+
+} {} {}} C:/Users/shah/Documents/CAAZ4/CSA4bit.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/shah/Documents/CAAZ4/CSA4bit.vhd
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity CSA4bit
+-- Compiling architecture structure of CSA4bit
+
+} {} {}} C:/Users/shah/Documents/CAAZ4/CLA4bit.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/shah/Documents/CAAZ4/CLA4bit.vhd
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity CLA4bit
+-- Compiling architecture structure of CLA4bit
+
+} {} {}} C:/Users/shah/Documents/CAAZ4/ANDgate.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:\Users\shah\Documents\CAAZ4\ANDgate.vhd}
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ANDgate
+-- Compiling architecture gatelevel of ANDgate
+
+} {} {}}

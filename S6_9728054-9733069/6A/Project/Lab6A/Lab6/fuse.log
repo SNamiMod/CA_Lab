@@ -1,0 +1,25 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/Home/Desktop/Lab6/Lab6/REG_test_isim_beh.exe -prj C:/Users/Home/Desktop/Lab6/Lab6/REG_test_beh.prj work.REG_test 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Home/Desktop/Lab6/Lab6/mux_1.vhd" into library work
+Parsing VHDL file "C:/Users/Home/Desktop/Lab6/Lab6/DFF.vhd" into library work
+Parsing VHDL file "C:/Users/Home/Desktop/Lab6/Lab6/REG.vhd" into library work
+Parsing VHDL file "C:/Users/Home/Desktop/Lab6/Lab6/REG_test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 148716 KB
+Fuse CPU Usage: 296 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture struct of entity mux_1 [mux_1_default]
+Compiling architecture struct of entity DFF [dff_default]
+Compiling architecture struct of entity REG [reg_default]
+Compiling architecture behavior of entity reg_test
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 9 VHDL Units
+Built simulation executable C:/Users/Home/Desktop/Lab6/Lab6/REG_test_isim_beh.exe
+Fuse Memory Usage: 158544 KB
+Fuse CPU Usage: 374 ms

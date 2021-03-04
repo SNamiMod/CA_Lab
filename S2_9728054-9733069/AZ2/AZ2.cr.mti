@@ -1,0 +1,113 @@
+C:/Users/shah/Documents/CAAZ2/priority_encoder4_2_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:\Users\shah\Documents\CAAZ2\priority_encoder4_2_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity priority_encoder4_2_tb
+-- Compiling architecture test of priority_encoder4_2_tb
+
+} {} {}} C:/Users/shah/Documents/CAAZ2/comparator4bit.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:\Users\shah\Documents\CAAZ2\comparator4bit.vhd}
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity comparator4bit
+-- Compiling architecture arch of comparator4bit
+
+} {} {}} C:/Users/shah/Documents/CAAZ2/decoder2_4.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/shah/Documents/CAAZ2/decoder2_4.vhd
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decoder2_4
+-- Compiling architecture arch of decoder2_4
+
+} {} {}} C:/Users/shah/Documents/CAAZ2/mux4_1_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:\Users\shah\Documents\CAAZ2\mux4_1_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux4_1_tb
+-- Compiling architecture test of mux4_1_tb
+
+} {} {}} C:/Users/shah/Documents/CAAZ2/comparator1bit_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/shah/Documents/CAAZ2/comparator1bit_tb.vhd
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity comparator1bit_tb
+-- Compiling architecture test of comparator1bit_tb
+
+} {} {}} C:/Users/shah/Documents/CAAZ2/encoder4_2.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:\Users\shah\Documents\CAAZ2\encoder4_2.vhd}
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity encoder4_2
+-- Compiling architecture arch of encoder4_2
+
+} {} {}} C:/Users/shah/Documents/CAAZ2/mux4_1.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:\Users\shah\Documents\CAAZ2\mux4_1.vhd}
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux4_1
+-- Compiling architecture arch of mux4_1
+
+} {} {}} C:/Users/shah/Documents/CAAZ2/priority_encoder4_2.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:\Users\shah\Documents\CAAZ2\priority_encoder4_2.vhd}
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity priority_encoder4_2
+-- Compiling architecture arch of priority_encoder4_2
+
+} {} {}} C:/Users/shah/Documents/CAAZ2/comparator1bit.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:\Users\shah\Documents\CAAZ2\comparator1bit.vhd}
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity comparator1bit
+-- Compiling architecture arch of comparator1bit
+
+} {} {}} C:/Users/shah/Documents/CAAZ2/comparator4bit_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:\Users\shah\Documents\CAAZ2\comparator4bit_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity comparator4bit_tb
+-- Compiling architecture test of comparator4bit_tb
+
+} {} {}} C:/Users/shah/Documents/CAAZ2/decoder2_4_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:\Users\shah\Documents\CAAZ2\decoder2_4_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decoder2_4_tb
+-- Compiling architecture test of decoder2_4_tb
+
+} {} {}} C:/Users/shah/Documents/CAAZ2/mux16_4_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:\Users\shah\Documents\CAAZ2\mux16_4_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux16_4_tb
+-- Compiling architecture test of mux16_4_tb
+
+} {} {}} C:/Users/shah/Documents/CAAZ2/encoder4_2_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:\Users\shah\Documents\CAAZ2\encoder4_2_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity encoder4_2_tb
+-- Compiling architecture test of encoder4_2_tb
+
+} {} {}} C:/Users/shah/Documents/CAAZ2/mux16_4.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:\Users\shah\Documents\CAAZ2\mux16_4.vhd}
+Model Technology ModelSim SE-64 vcom 2019.4 Compiler 2019.10 Oct 15 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux16_4
+-- Compiling architecture arch of mux16_4
+
+} {} {}}

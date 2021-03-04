@@ -1,0 +1,677 @@
+m255
+K4
+z2
+!s11e vcom 2019.4 2019.10, Oct 15 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/shah/Documents/CAAZ2
+T_opt
+!s110 1603485240
+VL7U^kdzJodQnf5T?KF3cb1
+04 9 4 work ra4bit_tb test 1
+=1-ed0b0000e000-5f933e38-9a-306c
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2019.4;69
+R0
+T_opt1
+!s110 1603485299
+Vcg4^k<nelEzAJOg=39i2S1
+04 5 4 work fa_tb test 1
+=1-ed0b0000e000-5f933e73-c9-1470
+R1
+R2
+n@_opt1
+R3
+T_opt2
+!s110 1603485176
+V0m=e20HXm@abbii?G^@iY0
+04 10 4 work csa4bit_tb test 1
+=1-ed0b0000e000-5f933df7-3b1-2c20
+R1
+R2
+n@_opt2
+R3
+R0
+Eandgate
+Z4 w1603470516
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 -1
+Z7 dC:/Users/shah/Documents/CAAZ4
+Z8 8C:\Users\shah\Documents\CAAZ4\ANDgate.vhd
+Z9 FC:\Users\shah\Documents\CAAZ4\ANDgate.vhd
+l0
+L3
+V23z7goMUzI9Cb;dh^AL@o2
+!s100 :;4YK<XT>Y[_3CU5X]9^n2
+Z10 OL;C;2019.4;69
+32
+Z11 !s110 1603485060
+!i10b 1
+Z12 !s108 1603485060.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:\Users\shah\Documents\CAAZ4\ANDgate.vhd|
+Z14 !s107 C:\Users\shah\Documents\CAAZ4\ANDgate.vhd|
+!i113 0
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Agatelevel
+R5
+R6
+DEx4 work 7 andgate 0 22 23z7goMUzI9Cb;dh^AL@o2
+!i122 -1
+l10
+L9
+VnRHQJ3b1TgNjnT4^VE>SJ2
+!s100 G=Lel;40;K<BUeEPHdIbO3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 0
+R15
+R16
+Ecla4bit
+Z17 w1603480205
+R5
+R6
+!i122 -1
+R7
+Z18 8C:/Users/shah/Documents/CAAZ4/CLA4bit.vhd
+Z19 FC:/Users/shah/Documents/CAAZ4/CLA4bit.vhd
+l0
+L4
+V_5Ke^e2jDzaAmYS`K4[5_2
+!s100 h70k1iVZT`nInITakQ7fe0
+R10
+32
+Z20 !s110 1603485061
+!i10b 1
+Z21 !s108 1603485061.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ4/CLA4bit.vhd|
+Z23 !s107 C:/Users/shah/Documents/CAAZ4/CLA4bit.vhd|
+!i113 0
+R15
+R16
+Astructure
+R5
+R6
+DEx4 work 7 cla4bit 0 22 _5Ke^e2jDzaAmYS`K4[5_2
+!i122 -1
+l29
+L13
+V8Ll<MjfnXmJlH<DAz0hl93
+!s100 R?Cm6@hJIBFI;m4nERQcP3
+R10
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 0
+R15
+R16
+Ecla4bit_tb
+Z24 w1603484101
+R5
+R6
+!i122 -1
+R7
+Z25 8C:/Users/shah/Documents/CAAZ4/CLA4bit_tb.vhd
+Z26 FC:/Users/shah/Documents/CAAZ4/CLA4bit_tb.vhd
+l0
+L4
+VNT@o26G4:mKZi2n0KmB6?1
+!s100 _ZERJ;X=4BYZCBGlVhZEl1
+R10
+32
+R20
+!i10b 1
+R21
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ4/CLA4bit_tb.vhd|
+Z28 !s107 C:/Users/shah/Documents/CAAZ4/CLA4bit_tb.vhd|
+!i113 0
+R15
+R16
+Atest
+R5
+R6
+DEx4 work 10 cla4bit_tb 0 22 NT@o26G4:mKZi2n0KmB6?1
+!i122 -1
+l25
+L7
+VzVUlMzi<6=GJaalaci0HL1
+!s100 ebYgk4:aEKgADZKMkZW7m0
+R10
+32
+R20
+!i10b 1
+R21
+R27
+R28
+!i113 0
+R15
+R16
+Ecsa
+Z29 w1603481280
+R5
+R6
+!i122 -1
+R7
+Z30 8C:\Users\shah\Documents\CAAZ4\CSA4bit.vhd
+Z31 FC:\Users\shah\Documents\CAAZ4\CSA4bit.vhd
+l0
+L4
+V<[V6:[^e8`W9H56TPMHgo3
+!s100 eRAO:US]fg_knS]^Y?f>_1
+R10
+32
+Z32 !s110 1603481288
+!i10b 1
+Z33 !s108 1603481288.000000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:\Users\shah\Documents\CAAZ4\CSA4bit.vhd|
+Z35 !s107 C:\Users\shah\Documents\CAAZ4\CSA4bit.vhd|
+!i113 0
+R15
+R16
+Astructure
+R5
+R6
+DEx4 work 3 csa 0 22 <[V6:[^e8`W9H56TPMHgo3
+!i122 -1
+l34
+L13
+VzAOOdBONeJMJ>keSoFcn^2
+!s100 ;Kz>@fH<BjX`eF@dVdUZB3
+R10
+32
+R32
+!i10b 1
+R33
+R34
+R35
+!i113 0
+R15
+R16
+Ecsa4bit
+Z36 w1603481441
+R5
+R6
+!i122 -1
+R7
+Z37 8C:/Users/shah/Documents/CAAZ4/CSA4bit.vhd
+Z38 FC:/Users/shah/Documents/CAAZ4/CSA4bit.vhd
+l0
+L4
+V]jHG;>kokj0n3J]JW8oM10
+!s100 _kWSfXg;iOmX`H;A?znJ03
+R10
+32
+R20
+!i10b 1
+R21
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ4/CSA4bit.vhd|
+Z40 !s107 C:/Users/shah/Documents/CAAZ4/CSA4bit.vhd|
+!i113 0
+R15
+R16
+Astructure
+R5
+R6
+DEx4 work 7 csa4bit 0 22 ]jHG;>kokj0n3J]JW8oM10
+!i122 -1
+l34
+L13
+VkBl>YddbGePm?4BmTm[3i1
+!s100 ba1_i2;D2>?bDHKSVm`ne3
+R10
+32
+R20
+!i10b 1
+R21
+R39
+R40
+!i113 0
+R15
+R16
+Ecsa4bit_tb
+Z41 w1603484152
+R5
+R6
+!i122 -1
+R7
+Z42 8C:/Users/shah/Documents/CAAZ4/CSA4bit_tb.vhd
+Z43 FC:/Users/shah/Documents/CAAZ4/CSA4bit_tb.vhd
+l0
+L4
+VhWeZGS[_a_C[IT1bljOJK3
+!s100 ?0ZaJ[N<<mAWRV^[QEegS0
+R10
+32
+Z44 !s110 1603485062
+!i10b 1
+Z45 !s108 1603485062.000000
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ4/CSA4bit_tb.vhd|
+Z47 !s107 C:/Users/shah/Documents/CAAZ4/CSA4bit_tb.vhd|
+!i113 0
+R15
+R16
+Atest
+R5
+R6
+DEx4 work 10 csa4bit_tb 0 22 hWeZGS[_a_C[IT1bljOJK3
+!i122 -1
+l25
+L7
+VDKiI8o3T^o?Ln1ZZ=`QO?0
+!s100 ABO8KA^Q^e<9U0cFhSO2z3
+R10
+32
+R44
+!i10b 1
+R45
+R46
+R47
+!i113 0
+R15
+R16
+Efa
+Z48 w1603485053
+R5
+R6
+!i122 -1
+R7
+Z49 8C:\Users\shah\Documents\CAAZ4\FA.vhd
+Z50 FC:\Users\shah\Documents\CAAZ4\FA.vhd
+l0
+L4
+Ve:DO=AeDaj:dJ9:mVnZ=e0
+!s100 fP^cG3khX3LH2U57IJF6l3
+R10
+32
+R11
+!i10b 1
+R12
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:\Users\shah\Documents\CAAZ4\FA.vhd|
+Z52 !s107 C:\Users\shah\Documents\CAAZ4\FA.vhd|
+!i113 0
+R15
+R16
+Astructure
+R5
+R6
+DEx4 work 2 fa 0 22 e:DO=AeDaj:dJ9:mVnZ=e0
+!i122 -1
+l29
+L11
+VnFLMjJLeLXJJWa`z;XXS:0
+!s100 DU8012mC^O`cPz4^8R`Co2
+R10
+32
+R11
+!i10b 1
+R12
+R51
+R52
+!i113 0
+R15
+R16
+Efa_tb
+Z53 w1603483958
+R5
+R6
+!i122 -1
+R7
+Z54 8C:\Users\shah\Documents\CAAZ4\FA_tb.vhd
+Z55 FC:\Users\shah\Documents\CAAZ4\FA_tb.vhd
+l0
+L4
+V>K]O?=GheTe=JjLHj9ATK0
+!s100 8a1R@D5M^gh1V`I>SOGIg3
+R10
+32
+R11
+!i10b 1
+R12
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:\Users\shah\Documents\CAAZ4\FA_tb.vhd|
+Z57 !s107 C:\Users\shah\Documents\CAAZ4\FA_tb.vhd|
+!i113 0
+R15
+R16
+Atest
+R5
+R6
+DEx4 work 5 fa_tb 0 22 >K]O?=GheTe=JjLHj9ATK0
+!i122 -1
+l23
+L7
+VRF25IgR;YC;9=?8nW:L`a3
+!s100 ScfTnTN[546h6[3ZXd5`m0
+R10
+32
+R11
+!i10b 1
+R12
+R56
+R57
+!i113 0
+R15
+R16
+Eha
+Z58 w1603484781
+R5
+R6
+!i122 -1
+R7
+Z59 8C:\Users\shah\Documents\CAAZ4\HA.vhd
+Z60 FC:\Users\shah\Documents\CAAZ4\HA.vhd
+l0
+L4
+VUo;k0kb]N<@zBSjIQK31c0
+!s100 SEj_8bMkVUlkbRAFCX1Xg0
+R10
+32
+Z61 !s110 1603485059
+!i10b 1
+Z62 !s108 1603485059.000000
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:\Users\shah\Documents\CAAZ4\HA.vhd|
+Z64 !s107 C:\Users\shah\Documents\CAAZ4\HA.vhd|
+!i113 0
+R15
+R16
+Astructure
+R5
+R6
+DEx4 work 2 ha 0 22 Uo;k0kb]N<@zBSjIQK31c0
+!i122 -1
+l27
+L11
+VXCNc?aX6im?WkM:;A=FNQ3
+!s100 AjKnL;V7gHV=5bT6Ykol:2
+R10
+32
+R61
+!i10b 1
+R62
+R63
+R64
+!i113 0
+R15
+R16
+Emux2_1
+Z65 w1603483677
+R5
+R6
+!i122 -1
+R7
+Z66 8C:/Users/shah/Documents/CAAZ4/mux2_1.vhd
+Z67 FC:/Users/shah/Documents/CAAZ4/mux2_1.vhd
+l0
+L4
+VQ3LcmTA2J]4[f[:gi6UiJ3
+!s100 c0NVLaeK0gUA8?fzZMEZ11
+R10
+32
+R44
+!i10b 1
+R21
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ4/mux2_1.vhd|
+Z69 !s107 C:/Users/shah/Documents/CAAZ4/mux2_1.vhd|
+!i113 0
+R15
+R16
+Astructure
+R5
+R6
+Z70 DEx4 work 6 mux2_1 0 22 Q3LcmTA2J]4[f[:gi6UiJ3
+!i122 -1
+l18
+L14
+VhQ8SiICEWa:VFm:=Vz:ji1
+!s100 M30`SG?DUBPbkDENNfUNm2
+R10
+32
+R44
+!i10b 1
+R21
+R68
+R69
+!i113 0
+R15
+R16
+Aarch
+R5
+R6
+R70
+!i122 -1
+l19
+L14
+Velb8kk^1WdHakBnGDLcI_2
+!s100 ZoOQ>8P4>@DM0nd=ofmTE2
+R10
+32
+!s110 1603482029
+!i10b 1
+!s108 1603482029.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:\Users\shah\Documents\CAAZ4\mux2_1.vhd|
+!s107 C:\Users\shah\Documents\CAAZ4\mux2_1.vhd|
+!i113 0
+R15
+R16
+w1603482585
+FC:\Users\shah\Documents\CAAZ4\mux2_1.vhd
+8C:\Users\shah\Documents\CAAZ4\mux2_1.vhd
+Enotgate
+Z71 w1603483223
+R5
+R6
+!i122 -1
+R7
+Z72 8C:/Users/shah/Documents/CAAZ4/NOTgate.vhd
+Z73 FC:/Users/shah/Documents/CAAZ4/NOTgate.vhd
+l0
+L3
+V<W26Hd7o<T=7FZ1A:YEn23
+!s100 AgV8Sm24RB9Lh_a8aQM3<0
+R10
+32
+Z74 !s110 1603483683
+!i10b 1
+Z75 !s108 1603483683.000000
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ4/NOTgate.vhd|
+Z77 !s107 C:/Users/shah/Documents/CAAZ4/NOTgate.vhd|
+!i113 0
+R15
+R16
+Agatelevel
+R5
+R6
+DEx4 work 7 notgate 0 22 <W26Hd7o<T=7FZ1A:YEn23
+!i122 -1
+l10
+L9
+VE44oFz;K;zh`8m@=7UFgY3
+!s100 9540I>A]8Bg5N0=5H7@l90
+R10
+32
+R74
+!i10b 1
+R75
+R76
+R77
+!i113 0
+R15
+R16
+Eorgate
+Z78 w1603470496
+R5
+R6
+!i122 -1
+R7
+Z79 8C:/Users/shah/Documents/CAAZ4/ORgate.vhd
+Z80 FC:/Users/shah/Documents/CAAZ4/ORgate.vhd
+l0
+L3
+VRnJ>16=ORDY=IROdFi9N30
+!s100 ncXlXVV1;4VPcn6STLa`41
+R10
+32
+R61
+!i10b 1
+R62
+Z81 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ4/ORgate.vhd|
+Z82 !s107 C:/Users/shah/Documents/CAAZ4/ORgate.vhd|
+!i113 0
+R15
+R16
+Agatelevel
+R5
+R6
+DEx4 work 6 orgate 0 22 RnJ>16=ORDY=IROdFi9N30
+!i122 -1
+l10
+L9
+VU>3f@>>=dba>Xc?gV]Cgm0
+!s100 zTKI6:9:en?1nWdDO4RM:2
+R10
+32
+R61
+!i10b 1
+R62
+R81
+R82
+!i113 0
+R15
+R16
+Era4bit
+Z83 w1603481883
+R5
+R6
+!i122 -1
+R7
+Z84 8C:/Users/shah/Documents/CAAZ4/RA4bit.vhd
+Z85 FC:/Users/shah/Documents/CAAZ4/RA4bit.vhd
+l0
+L4
+Vk2`66ROU4AOSMa6ILjB3e3
+!s100 ^S_6IY:RlRR1@;?l_V60[3
+R10
+32
+R20
+!i10b 1
+R21
+Z86 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ4/RA4bit.vhd|
+Z87 !s107 C:/Users/shah/Documents/CAAZ4/RA4bit.vhd|
+!i113 0
+R15
+R16
+Astructure
+R5
+R6
+DEx4 work 6 ra4bit 0 22 k2`66ROU4AOSMa6ILjB3e3
+!i122 -1
+l24
+L13
+V:QE0nJDzl1e=l<5cdU_=A1
+!s100 jf;e^Q4nFVL?h8zod@Xn03
+R10
+32
+R20
+!i10b 1
+R21
+R86
+R87
+!i113 0
+R15
+R16
+Era4bit_tb
+Z88 w1603484117
+R5
+R6
+!i122 -1
+R7
+Z89 8C:/Users/shah/Documents/CAAZ4/RA4bit_tb.vhd
+Z90 FC:/Users/shah/Documents/CAAZ4/RA4bit_tb.vhd
+l0
+L4
+VEVl]]7d4Uz3:W`gmE4FE;2
+!s100 oC04b?1_RKE_kLK>k^`[c0
+R10
+32
+R44
+!i10b 1
+R45
+Z91 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ4/RA4bit_tb.vhd|
+Z92 !s107 C:/Users/shah/Documents/CAAZ4/RA4bit_tb.vhd|
+!i113 0
+R15
+R16
+Atest
+R5
+R6
+DEx4 work 9 ra4bit_tb 0 22 EVl]]7d4Uz3:W`gmE4FE;2
+!i122 -1
+l25
+L7
+VQ395P1P<77la[`lnX<a?G1
+!s100 OiMPb?0Ta=DldKN@mQIFY2
+R10
+32
+R44
+!i10b 1
+R45
+R91
+R92
+!i113 0
+R15
+R16
+Exorgate
+Z93 w1603470478
+R5
+R6
+!i122 -1
+R7
+Z94 8C:/Users/shah/Documents/CAAZ4/XORgate.vhd
+Z95 FC:/Users/shah/Documents/CAAZ4/XORgate.vhd
+l0
+L3
+V2=FoDPffIK7zXNa9N3kdL0
+!s100 1H;d<b^cGj;aChF^Y8E:03
+R10
+32
+R61
+!i10b 1
+R62
+Z96 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ4/XORgate.vhd|
+Z97 !s107 C:/Users/shah/Documents/CAAZ4/XORgate.vhd|
+!i113 0
+R15
+R16
+Agatelevel
+R5
+R6
+DEx4 work 7 xorgate 0 22 2=FoDPffIK7zXNa9N3kdL0
+!i122 -1
+l10
+L9
+VgDNkA1TfT]ElK<5QU2TIJ3
+!s100 eO>CG2?E6YzVGJzFYYQUD1
+R10
+32
+R61
+!i10b 1
+R62
+R96
+R97
+!i113 0
+R15
+R16

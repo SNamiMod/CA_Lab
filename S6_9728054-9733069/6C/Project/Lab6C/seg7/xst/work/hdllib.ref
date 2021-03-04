@@ -1,0 +1,10 @@
+EN mux_1 NULL "C:/Users/Home/Desktop/AZ6/6A/VHDL code/mux_1.vhd" sub00/vhpl00 1606323742
+AR mux_1 struct "C:/Users/Home/Desktop/AZ6/6A/VHDL code/mux_1.vhd" sub00/vhpl01 1606323743
+EN dff NULL "C:/Users/Home/Desktop/AZ6/6A/VHDL code/DFF.vhd" sub00/vhpl02 1606323744
+AR dff struct "C:/Users/Home/Desktop/AZ6/6A/VHDL code/DFF.vhd" sub00/vhpl03 1606323745
+EN clock_delay NULL "C:/Users/Home/Desktop/AZ6/6B/VHDL code/clock_delay.vhd" sub00/vhpl04 1606323746
+AR clock_delay behavioral "C:/Users/Home/Desktop/AZ6/6B/VHDL code/clock_delay.vhd" sub00/vhpl05 1606323747
+AR seg7 behavioral C:/Users/Home/Desktop/Lab6C/seg7/seg7.vhd sub00/vhpl09 1606323751
+AR reg struct "C:/Users/Home/Desktop/AZ6/6A/VHDL code/REG.vhd" sub00/vhpl07 1606323749
+EN seg7 NULL C:/Users/Home/Desktop/Lab6C/seg7/seg7.vhd sub00/vhpl08 1606323750
+EN reg NULL "C:/Users/Home/Desktop/AZ6/6A/VHDL code/REG.vhd" sub00/vhpl06 1606323748

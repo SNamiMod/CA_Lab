@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "C:/Users/Home/Desktop/Lab6/Lab6/DFF.xst" -ofn "C:/Users/Home/Desktop/Lab6/Lab6/DFF.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-5 DFF.ngc DFF.ngd  
+map -intstyle ise -p xc3s400-pq208-5 -cm area -ir off -pr off -c 100 -o DFF_map.ncd DFF.ngd DFF.pcf 
+par -w -intstyle ise -ol high -t 1 DFF_map.ncd DFF.ncd DFF.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml DFF.twx DFF.ncd -o DFF.twr DFF.pcf 

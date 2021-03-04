@@ -1,0 +1,266 @@
+m255
+K4
+z2
+!s11e vcom 2019.4 2019.10, Oct 15 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/shah/Documents
+T_opt
+!s110 1602014719
+Vhg]2M1;kj=XVQ0RnF;IHI3
+04 20 8 work testbench_full_adder behavior 1
+=1-ed0b0000e000-5f7ccdfe-345-7f0
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;2019.4;69
+Eand_gate
+Z0 w1602010497
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 -1
+Z3 dC:/Users/shah/Documents/CAAZ
+Z4 8C:/Users/shah/Documents/CAAZ/ANDgate.vhd
+Z5 FC:/Users/shah/Documents/CAAZ/ANDgate.vhd
+l0
+L3
+VKB<B8zE_aVHY:ngG>;Yg02
+!s100 UNdYl[AUaEBE;oj@^D4SY2
+Z6 OL;C;2019.4;69
+32
+Z7 !s110 1602014106
+!i10b 1
+Z8 !s108 1602014105.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ/ANDgate.vhd|
+Z10 !s107 C:/Users/shah/Documents/CAAZ/ANDgate.vhd|
+!i113 0
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Agatelevel
+R1
+R2
+DEx4 work 8 and_gate 0 22 KB<B8zE_aVHY:ngG>;Yg02
+!i122 -1
+l10
+L9
+VSl8Kz8]e`9n4_=Z?:k[;j2
+!s100 O<<<h5eEBc9XF]nHzXAH`3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Efull_adder
+Z13 w1602010353
+R1
+R2
+!i122 -1
+R3
+Z14 8C:/Users/shah/Documents/CAAZ/FAmadule.vhd
+Z15 FC:/Users/shah/Documents/CAAZ/FAmadule.vhd
+l0
+L3
+VQ1^AYmE3I3>Oo]0aa:?Gn0
+!s100 D7Pj0l^^aoLia<]R]00MS0
+R6
+32
+Z16 !s110 1602014107
+!i10b 1
+Z17 !s108 1602014106.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ/FAmadule.vhd|
+Z19 !s107 C:/Users/shah/Documents/CAAZ/FAmadule.vhd|
+!i113 0
+R11
+R12
+Astructure
+R1
+R2
+DEx4 work 10 full_adder 0 22 Q1^AYmE3I3>Oo]0aa:?Gn0
+!i122 -1
+l23
+L9
+Vj]4fX_XMa>ohUO?<:gBUc1
+!s100 @JY6PokLLWEM00DD]n5i?1
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 0
+R11
+R12
+Ehalf_adder
+Z20 w1602010358
+R1
+R2
+!i122 -1
+R3
+Z21 8C:/Users/shah/Documents/CAAZ/HAmadule.vhd
+Z22 FC:/Users/shah/Documents/CAAZ/HAmadule.vhd
+l0
+L3
+V:k4E@]e:65CD<GMP3MZ>`3
+!s100 5TfGdDh12:kW<O@BERG<]1
+R6
+32
+R7
+!i10b 1
+R17
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ/HAmadule.vhd|
+Z24 !s107 C:/Users/shah/Documents/CAAZ/HAmadule.vhd|
+!i113 0
+R11
+R12
+Astructure
+R1
+R2
+DEx4 work 10 half_adder 0 22 :k4E@]e:65CD<GMP3MZ>`3
+!i122 -1
+l22
+L9
+V2O6Kn1g1hb@e=eEf7eG?50
+!s100 JJRi<UQJfV[N3O?hNfQ]>2
+R6
+32
+R7
+!i10b 1
+R17
+R23
+R24
+!i113 0
+R11
+R12
+Eor_gate
+Z25 w1602010356
+R1
+R2
+!i122 -1
+R3
+Z26 8C:/Users/shah/Documents/CAAZ/ORgate.vhd
+Z27 FC:/Users/shah/Documents/CAAZ/ORgate.vhd
+l0
+L3
+VQWQU[99E3IE8>Ydamg>e91
+!s100 glBIk66m_K<g6?:`EU7kN2
+R6
+32
+R7
+!i10b 1
+R17
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ/ORgate.vhd|
+Z29 !s107 C:/Users/shah/Documents/CAAZ/ORgate.vhd|
+!i113 0
+R11
+R12
+Agatelevel
+R1
+R2
+DEx4 work 7 or_gate 0 22 QWQU[99E3IE8>Ydamg>e91
+!i122 -1
+l10
+L9
+V4Te4k1Vca4:P<NoK`J6Uo3
+!s100 ca[GGLPIARF`gjHTLzC0b0
+R6
+32
+R7
+!i10b 1
+R17
+R28
+R29
+!i113 0
+R11
+R12
+Etestbench_full_adder
+Z30 w1602014066
+R1
+R2
+!i122 -1
+R3
+Z31 8C:/Users/shah/Documents/CAAZ/FA_test.vhd
+Z32 FC:/Users/shah/Documents/CAAZ/FA_test.vhd
+l0
+L3
+Vz8QZPWQf6nXKi1gD16>??2
+!s100 6WiZ2[9>k3ioAfUzGeEmO2
+R6
+32
+R16
+!i10b 1
+Z33 !s108 1602014107.000000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ/FA_test.vhd|
+Z35 !s107 C:/Users/shah/Documents/CAAZ/FA_test.vhd|
+!i113 0
+R11
+R12
+Abehavior
+R1
+R2
+DEx4 work 20 testbench_full_adder 0 22 z8QZPWQf6nXKi1gD16>??2
+!i122 -1
+l20
+L6
+VdA;2GjzSdoFNN1LiA:Vce0
+!s100 DZWRVLcoV@781n0^NhjAi1
+R6
+32
+R16
+!i10b 1
+R33
+R34
+R35
+!i113 0
+R11
+R12
+Exor_gate
+Z36 w1602010360
+R1
+R2
+!i122 -1
+R3
+Z37 8C:/Users/shah/Documents/CAAZ/XORgate.vhd
+Z38 FC:/Users/shah/Documents/CAAZ/XORgate.vhd
+l0
+L3
+VoKe<mHzfg[A^gO_6>eglF0
+!s100 Z[U<0M]7<5EFFGoO[z9?f1
+R6
+32
+R7
+!i10b 1
+R17
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/shah/Documents/CAAZ/XORgate.vhd|
+Z40 !s107 C:/Users/shah/Documents/CAAZ/XORgate.vhd|
+!i113 0
+R11
+R12
+Agatelevel
+R1
+R2
+DEx4 work 8 xor_gate 0 22 oKe<mHzfg[A^gO_6>eglF0
+!i122 -1
+l10
+L9
+VYKU`6^P6h7inTlWHEYozl0
+!s100 T94FhN0T7;`7Qh>YM@_Pc2
+R6
+32
+R7
+!i10b 1
+R17
+R39
+R40
+!i113 0
+R11
+R12

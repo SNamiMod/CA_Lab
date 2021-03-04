@@ -1,0 +1,487 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/modeltech_10.2c/examples
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+VFAW`YHo50A34mAHTA`C=O1
+04 8 8 work tff_test behavior 1
+=1-f46d040ebde5-5f8f27d3-29c-12c8
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OE;O;10.2c;57
+Z1 dC:/modeltech_10.2c/examples
+!s110 1603217363
+Edetector_0110_0101
+Z2 w1603217331
+Z3 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+Z5 dC:/Users/Home/Desktop/Lab3
+Z6 8C:/Users/Home/Desktop/Lab3/Detector_0110_0101.vhd
+Z7 FC:/Users/Home/Desktop/Lab3/Detector_0110_0101.vhd
+l0
+L5
+VB`3606ABFY`aGf=FzoeTb2
+Z8 OE;C;10.2c;57
+32
+Z9 !s110 1603217887
+Z10 !s108 1603217887.309000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/Home/Desktop/Lab3/Detector_0110_0101.vhd|
+Z12 !s107 C:/Users/Home/Desktop/Lab3/Detector_0110_0101.vhd|
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+!s100 ]MF8EMdXnQV3dNnR@>7]60
+!i10b 1
+!i111 0
+Abehavioral
+R3
+R4
+DEx4 work 18 detector_0110_0101 0 22 B`3606ABFY`aGf=FzoeTb2
+32
+R9
+l18
+L12
+VUm:LOB]<jBYADGZgJl16T0
+R8
+R10
+R11
+R12
+R13
+R14
+!s100 :PhHI6o<NnB4GUOcSoaEA2
+!i10b 1
+!i111 0
+Edetector_0110_0101_test
+Z15 w1603217324
+R3
+R4
+R5
+Z16 8C:/Users/Home/Desktop/Lab3/Detector_0110_0101_test.vhd
+Z17 FC:/Users/Home/Desktop/Lab3/Detector_0110_0101_test.vhd
+l0
+L5
+VL<ePZzlf^3InSK?VF2O^X0
+R8
+32
+Z18 !s110 1603217888
+Z19 !s108 1603217888.059000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/Home/Desktop/Lab3/Detector_0110_0101_test.vhd|
+Z21 !s107 C:/Users/Home/Desktop/Lab3/Detector_0110_0101_test.vhd|
+R13
+R14
+!s100 G[kB=aHRTdQ2h;W3JR;991
+!i10b 1
+!i111 0
+Abehavior
+R3
+R4
+DEx4 work 23 detector_0110_0101_test 0 22 L<ePZzlf^3InSK?VF2O^X0
+32
+R18
+l26
+L8
+VWm:OHJb1P;VzZ_@hRe2S91
+R8
+R19
+R20
+R21
+R13
+R14
+!s100 81I=aFGEVhlO[?54?jEZD0
+!i10b 1
+!i111 0
+Edff
+Z22 w1603224826
+R3
+R4
+R5
+Z23 8C:\Users\Home\Desktop\Lab3\DFF.vhd
+Z24 FC:\Users\Home\Desktop\Lab3\DFF.vhd
+l0
+L5
+VC[Y2REDZe[PQT<T9P:@FO3
+R8
+32
+Z25 !s110 1603224831
+Z26 !s108 1603224831.555000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\Home\Desktop\Lab3\DFF.vhd|
+Z28 !s107 C:\Users\Home\Desktop\Lab3\DFF.vhd|
+R13
+R14
+!s100 `6AQSLXO77FjEhWlKSaGF0
+!i10b 1
+!i111 0
+Abehavioral
+R3
+R4
+DEx4 work 3 dff 0 22 C[Y2REDZe[PQT<T9P:@FO3
+32
+R25
+l15
+L13
+Vj7TCKMHdmE08^6m[Kk1fB1
+R8
+R26
+R27
+R28
+R13
+R14
+!s100 6m:AehY0Hm`V6R;9iR3X>0
+!i10b 1
+!i111 0
+Edff_test
+Z29 w1603225136
+R3
+R4
+R5
+Z30 8C:\Users\Home\Desktop\Lab3\DFF_test.vhd
+Z31 FC:\Users\Home\Desktop\Lab3\DFF_test.vhd
+l0
+L5
+Vb2H^BcoR?cT5f59Jgg4L<2
+R8
+32
+Z32 !s110 1603225141
+Z33 !s108 1603225141.617000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\Home\Desktop\Lab3\DFF_test.vhd|
+Z35 !s107 C:\Users\Home\Desktop\Lab3\DFF_test.vhd|
+R13
+R14
+!s100 NKS`hLdWc_B=Uk3<HTB532
+!i10b 1
+!i111 0
+Abehavior
+R3
+R4
+DEx4 work 8 dff_test 0 22 b2H^BcoR?cT5f59Jgg4L<2
+l24
+L8
+VcTQNhkmjAb=eeEU]@Tc<=3
+!s100 :z`HDA[0QaONfHcBb;Xa>0
+R8
+32
+R32
+R33
+R34
+R35
+R13
+R14
+!i10b 1
+!i111 0
+Emealy_1101
+Z36 w1603217292
+R3
+R4
+R5
+Z37 8C:/Users/Home/Desktop/Lab3/Mealy_1101.vhd
+Z38 FC:/Users/Home/Desktop/Lab3/Mealy_1101.vhd
+l0
+L5
+V6:TfGU5Mb^gT;o=fa17jm2
+R8
+32
+R18
+Z39 !s108 1603217888.794000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/Home/Desktop/Lab3/Mealy_1101.vhd|
+Z41 !s107 C:/Users/Home/Desktop/Lab3/Mealy_1101.vhd|
+R13
+R14
+!s100 6>cLG7ASESmNBo4R0gO0N2
+!i10b 1
+!i111 0
+Abehavioral
+R3
+R4
+DEx4 work 10 mealy_1101 0 22 6:TfGU5Mb^gT;o=fa17jm2
+32
+R18
+l18
+L13
+VKJ>^hIUAYIWZ?db0ia:cG1
+R8
+R39
+R40
+R41
+R13
+R14
+!s100 0W[SL_EG4KmfP`;:6oQ9T1
+!i10b 1
+!i111 0
+Emealy_1101_test
+Z42 w1603217277
+R3
+R4
+R5
+Z43 8C:/Users/Home/Desktop/Lab3/Mealy_1101_test.vhd
+Z44 FC:/Users/Home/Desktop/Lab3/Mealy_1101_test.vhd
+l0
+L5
+Vi9[1aFPf;:EhUoNaUJYN21
+R8
+32
+Z45 !s110 1603217889
+Z46 !s108 1603217889.075000
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/Home/Desktop/Lab3/Mealy_1101_test.vhd|
+Z48 !s107 C:/Users/Home/Desktop/Lab3/Mealy_1101_test.vhd|
+R13
+R14
+!s100 35WJN8[CjLE`fEjXDh?Tk2
+!i10b 1
+!i111 0
+Abehavior
+R3
+R4
+DEx4 work 15 mealy_1101_test 0 22 i9[1aFPf;:EhUoNaUJYN21
+32
+R45
+l28
+L8
+VMU:7MYWGHnDSAe:fNf_7>0
+R8
+R46
+R47
+R48
+R13
+R14
+!s100 hJ]V@nghRVOScKKiSeE>01
+!i10b 1
+!i111 0
+Emoore_1101
+Z49 w1603217266
+R3
+R4
+R5
+Z50 8C:/Users/Home/Desktop/Lab3/Moore_1101.vhd
+Z51 FC:/Users/Home/Desktop/Lab3/Moore_1101.vhd
+l0
+L5
+VRPnV`gb@o`_hK;LHIlGNk2
+R8
+32
+R45
+Z52 !s108 1603217889.294000
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/Home/Desktop/Lab3/Moore_1101.vhd|
+Z54 !s107 C:/Users/Home/Desktop/Lab3/Moore_1101.vhd|
+R13
+R14
+!s100 I9R6_IjJAIjHfVa3SmKSV3
+!i10b 1
+!i111 0
+Abehavioral
+R3
+R4
+DEx4 work 10 moore_1101 0 22 RPnV`gb@o`_hK;LHIlGNk2
+32
+R45
+l18
+L13
+Vme6YZb2aGMaB@5[d64TWd0
+R8
+R52
+R53
+R54
+R13
+R14
+!s100 =VFkV`Nz<9MMHd0gDF6m[2
+!i10b 1
+!i111 0
+Emoore_1101_test
+Z55 w1603217255
+R3
+R4
+R5
+Z56 8C:/Users/Home/Desktop/Lab3/Moore_1101_test.vhd
+Z57 FC:/Users/Home/Desktop/Lab3/Moore_1101_test.vhd
+l0
+L5
+VZP9H8;OzYL9bz_K>3f5FW1
+R8
+32
+R45
+Z58 !s108 1603217889.653000
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/Home/Desktop/Lab3/Moore_1101_test.vhd|
+Z60 !s107 C:/Users/Home/Desktop/Lab3/Moore_1101_test.vhd|
+R13
+R14
+!s100 Ag9nKFlQnR<i4jn@k@NiR0
+!i10b 1
+!i111 0
+Abehavior
+R3
+R4
+DEx4 work 15 moore_1101_test 0 22 ZP9H8;OzYL9bz_K>3f5FW1
+32
+R45
+l27
+L8
+V8CzDe15G68GFJVYDYGF2@3
+R8
+R58
+R59
+R60
+R13
+R14
+!s100 `Jd2MjcV4I_TI9@l@HejX2
+!i10b 1
+!i111 0
+Eripple_counter
+Z61 w1603225176
+R3
+R4
+R5
+Z62 8C:\Users\Home\Desktop\Lab3\Ripple_Counter.vhd
+Z63 FC:\Users\Home\Desktop\Lab3\Ripple_Counter.vhd
+l0
+L6
+VHa2_]Ro=cb[^?CbO>hCgo1
+!s100 a[>IT^FP[S]=a^XP?B?Ae0
+R8
+32
+Z64 !s110 1603225181
+!i10b 1
+Z65 !s108 1603225181.117000
+Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\Home\Desktop\Lab3\Ripple_Counter.vhd|
+Z67 !s107 C:\Users\Home\Desktop\Lab3\Ripple_Counter.vhd|
+!i111 0
+R13
+R14
+Abehavioral
+R3
+R4
+Z68 DEx4 work 14 ripple_counter 0 22 Ha2_]Ro=cb[^?CbO>hCgo1
+l22
+L13
+Z69 V4T1dQUU^6?R_08SBbK@j41
+Z70 !s100 >B^HS>W=8ZPWd^IXEVBbJ3
+R8
+32
+R64
+!i10b 1
+R65
+R66
+R67
+!i111 0
+R13
+R14
+Eripple_counter_test
+Z71 w1603217234
+R3
+R4
+R5
+Z72 8C:/Users/Home/Desktop/Lab3/Ripple_Counter_test.vhd
+Z73 FC:/Users/Home/Desktop/Lab3/Ripple_Counter_test.vhd
+l0
+L5
+V<]B7b12SKiE=9dH@emAU`3
+R8
+32
+Z74 !s110 1603217890
+Z75 !s108 1603217890.153000
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/Home/Desktop/Lab3/Ripple_Counter_test.vhd|
+Z77 !s107 C:/Users/Home/Desktop/Lab3/Ripple_Counter_test.vhd|
+R13
+R14
+!s100 L6z7GCSfBAVl3`i[X@6X<1
+!i10b 1
+!i111 0
+Abehavior
+R3
+R4
+DEx4 work 19 ripple_counter_test 0 22 <]B7b12SKiE=9dH@emAU`3
+32
+R74
+l25
+L8
+VL72B>f7`MKg;a]k_H=eFD1
+R8
+R75
+R76
+R77
+R13
+R14
+!s100 8;LLhIkZBbhJPl2IaVn;72
+!i10b 1
+!i111 0
+Etff
+Z78 w1603224750
+R3
+R4
+R5
+Z79 8C:\Users\Home\Desktop\Lab3\TFF.vhd
+Z80 FC:\Users\Home\Desktop\Lab3\TFF.vhd
+l0
+L5
+V:E<h3ocHbNiY@IJLD2kZU0
+R8
+32
+Z81 !s110 1603224758
+Z82 !s108 1603224758.320000
+Z83 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\Home\Desktop\Lab3\TFF.vhd|
+Z84 !s107 C:\Users\Home\Desktop\Lab3\TFF.vhd|
+R13
+R14
+!s100 ]dWWHcIAAY]7PUIg4OZF92
+!i10b 1
+!i111 0
+Abehavioral
+R3
+R4
+DEx4 work 3 tff 0 22 :E<h3ocHbNiY@IJLD2kZU0
+32
+R81
+l14
+L12
+ViU?<ml5WOBn_N?_H_zd0R3
+R8
+R82
+R83
+R84
+R13
+R14
+!s100 fj@7M5D=f6:VOS4STDKMV1
+!i10b 1
+!i111 0
+Etff_test
+Z85 w1603217206
+R3
+R4
+R5
+Z86 8C:/Users/Home/Desktop/Lab3/TFF_test.vhd
+Z87 FC:/Users/Home/Desktop/Lab3/TFF_test.vhd
+l0
+L5
+V;h6<9VB2dWzi84?ic^ULZ3
+R8
+32
+R74
+Z88 !s108 1603217890.715000
+Z89 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/Home/Desktop/Lab3/TFF_test.vhd|
+Z90 !s107 C:/Users/Home/Desktop/Lab3/TFF_test.vhd|
+R13
+R14
+!s100 iU^z7o9?WfL3_[;1Yfk8n0
+!i10b 1
+!i111 0
+Abehavior
+R3
+R4
+DEx4 work 8 tff_test 0 22 ;h6<9VB2dWzi84?ic^ULZ3
+32
+R74
+l24
+L8
+V`9NfE33:b^f0n>543b]Fb2
+R8
+R88
+R89
+R90
+R13
+R14
+!s100 Lh6[e5z95J_L408AkOfz<1
+!i10b 1
+!i111 0
